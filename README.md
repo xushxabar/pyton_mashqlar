@@ -1,1 +1,1 @@
-# pyton_mashqlar
+# pyton_mashqlar: pythonda kod yozishdan mashqlar.
